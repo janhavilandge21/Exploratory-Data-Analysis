@@ -110,3 +110,7 @@ Integrate IMDb ratings API for live updates
 Deploy app on Streamlit Cloud / Render
 
 Include AI-powered content recommendations
+
+
+<img width="1918" height="932" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/51bd9b48-ce0d-4c73-ad79-a91e01b54a42" />
+
